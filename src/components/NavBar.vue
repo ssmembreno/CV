@@ -98,7 +98,7 @@
   </div>
 </template>
 
-<script setup>
+<script setup lang="js">
 const heroBackground = `
   background-image: linear-gradient(
     to top,
