@@ -55,7 +55,7 @@
         <img
           src="/public/img//icons/arrow.png"
           alt="Flechas hacia abajo"
-          class="absolute bottom-0 left-1/2 transform -translate-x-1/2 w-13 animate-bounce sm:d-none "
+          class="absolute bottom-0 left-1/2 transform -translate-x-1/2 w-13 animate-bounce "
         />
 
         <div class="relative w-[240px] sm:w-[280px] md:w-[320px] lg:w-[380px] mx-auto mb-10 lg:mr-10">
@@ -129,4 +129,24 @@ const heroBackground = `
     );
   });
 </script>
+
+<style>
+@media (max-width: 1024px) and (min-width: 768px) {
+  img[alt="Flechas hacia abajo"] {
+    display: none;
+  }
+}
+
+@media (max-width: 767px) and (min-width: 480px) {
+  img[alt="Flechas hacia abajo"] {
+    display: none;
+  }
+}
+
+@media (max-width: 479px) {
+  img[alt="Flechas hacia abajo"] {
+    display: none;
+  }
+}
+</style>
 
