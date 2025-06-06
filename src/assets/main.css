@@ -4,8 +4,12 @@
 @import "tailwindcss";
 
 
+html {
+  scroll-behavior: smooth;
+}
+
 .nav-bar a:hover{
-    color: #dc0025;
+    color: #0CFFFF;
 }
 
 .floating {
@@ -28,3 +32,53 @@
   }
 }
 
+
+
+/*NavBar styles*/
+.machine{
+  display: block;
+  white-space: nowrap;
+  border-right: 4px solid;
+  width: 23ch;
+  animation: typing 2s steps(12),
+  blink .5s infinite step-end alternate;
+  overflow:hidden;
+}
+
+@keyframes typing {
+  from{width: 0}
+}
+
+@keyframes blink {
+  80%{border-color: transparent;}
+}
+
+@keyframes robotic-bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  70% {
+    transform: translateY(10px);
+  }
+}
+
+.animate-robotic-bounce {
+  animation: robotic-bounce 1.5s infinite;
+}
+
+
+
+.toast {
+  opacity: 1;
+  transform: translateY(0);
+  animation: fade-in 0.8s ease-in;
+  
+}
+
+@keyframes fade-in {
+  0% {
+    /* Effect values */
+    opacity: 0;
+    transform: translateY(150px);
+  }
+}
