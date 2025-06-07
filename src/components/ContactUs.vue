@@ -1,5 +1,5 @@
 <template>
-  <section class="relative bg-[#0f1126] py-26 px-6 md:px-20 text-white overflow-hidden flex flex-col md:flex-row justify-center items-center gap-12">
+  <section class="relative bg-[#0f1126] py-26 px-6 md:px-20 text-white overflow-hidden flex flex-col md:flex-row justify-center items-center gap-15">
     
     <div class="max-w-md">
       <h2 class="text-4xl md:text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-[#0CFFFF] via-[#dc0025] to-[#100425] mb-6">
@@ -13,21 +13,9 @@
       <ul class="space-y-4">
         <li class="flex items-center gap-3">
           <span class="w-10 h-10 flex items-center justify-center bg-gradient-to-r from-[#0CFFFF] to-[#dc0025] rounded-full">
-            <i class="fa fa-phone text-xl"></i>
-          </span>
-          <span><a href="https://wa.me/+34641552638">+34 641-552-638</a></span>
-        </li>
-        <li class="flex items-center gap-3">
-          <span class="w-10 h-10 flex items-center justify-center bg-gradient-to-r from-[#0CFFFF] to-[#dc0025] rounded-full">
             <i class="fa fa-envelope text-xl"></i>
           </span>
           <span><a href="mailto:samuel.mem123@gmail.com">samuel.mem123@gmail.com</a></span>
-        </li>
-        <li class="flex items-center gap-3">
-          <span class="w-10 h-10 flex items-center justify-center bg-gradient-to-r from-[#0CFFFF] to-[#dc0025] rounded-full">
-            <i class="fa fa-map-marker text-xl"></i>
-          </span>
-          <span>Albacete Hellín, España</span>
         </li>
       </ul>
     </div>
@@ -93,7 +81,5 @@ const sendEmail = () => {
       }, 5000)
 
 }
-
-
 </script>
 

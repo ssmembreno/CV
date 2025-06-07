@@ -17,14 +17,14 @@
       <!-- Hero -->
       <div class="flex flex-col lg:flex-row items-center justify-between">
         <!-- Texto -->
-        <div class="max-w-xl w-full px-4 sm:px-6 lg:px-0 mt-10 lg:mt-0 lg:ml-16 text-center lg:text-left">
-        <span class="machine text-2xl sm:text-4xl lg:text-5xl font-josefin font-bold mb-6 block">
+        <div class="max-w-xl w-full px-1 sm:px-6 lg:px-0 mt-10 lg:mt-0 lg:ml-16 text-center lg:text-left">
+        <span class="machine text-2xl sm:text-3xl lg:text-5xl font-josefin font-bold mb-6 block text-center">
           ¡Hola, Soy Samuel Membreño!</span>
           <h2 class="gsap-button text-2xl sm:text-3xl lg:text-4xl font-semibold mb-8 bg-gradient-to-r from-[#0CFFFF] via-[#dc0025] to-[#100425] bg-clip-text text-transparent">
             Desarollador Full Stack
           </h2>
           <p class="gsap-button text-base sm:text-lg lg:text-xl text-gray-300 mb-5 leading-relaxed">
-            Soy un desarrollador web con formación en un 
+            Con formación en un 
             técnico de grado superior
             en desarrollo de aplicaciones web (DAW).<br /><br />
           </p>

@@ -10,18 +10,12 @@
 
 
     <div class="max-w-3xl relative z-10 text-center">
-        <p class="mt-8 text-lg text-gray-300 leading-relaxed">
-          
-            Soy un apasionado del desarrollo web, con 3 meses de experiencia laboral.
-            Cuento con el título de Técnico Superior en Desarrollo de Aplicaciones Web (DAW) y Técnico en Sistemas Microinformáticos y Redes.
-            He ido incrementando mis conocimientos de forma autodidacta desarrollando proyectos con Laravel, PHP, JavaScript y bases de datos.
-        </p>
 
         <p class="mt-8 text-lg text-gray-300 leading-relaxed">
             Actualmente, sigo ampliando mis habilidades en frontend con Vue,
             Tailwind y otras tecnologías para ofrecer soluciones completas y profesionales.
             Me considero una persona responsable, carismática, con muchas ganas de trabajar. 
-            Me encanta aprender y crecer como desarrollador, siempre buscando aplicar buenas prácticas y ofrecer lo mejor en cada proyecto.
+            Me encanta aprender y crecer como desarrollador, siempre buscando aplicar buenas prácticas y ofrecer lo mejor de mi en cada proyecto con las siguientes tegnologias.
         </p>
     </div>
 
