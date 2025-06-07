@@ -12,7 +12,7 @@
     <div class="max-w-3xl relative z-10 text-center">
 
         <p class="mt-8 text-lg text-gray-300 leading-relaxed">
-            Actualmente, sigo ampliando mis habilidades en frontend con Vue,
+            Actualmente, sigo ampliando mis habilidades en frontend con React
             Tailwind y otras tecnologías para ofrecer soluciones completas y profesionales.
             Me considero una persona responsable, carismática, con muchas ganas de trabajar. 
             Me encanta aprender y crecer como desarrollador, siempre buscando aplicar buenas prácticas y ofrecer lo mejor de mi en cada proyecto con las siguientes tegnologias.
