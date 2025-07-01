@@ -7,7 +7,7 @@
       </h2>
       <a id="contact"></a>
       <p class="text-gray-300 mb-6">
-        <strong>¿Te agrada mi perfil? </strong> <br> Dejame un mensaje al correo o puedes utilizar mi numero de telefono :)
+        <strong>¿Te agrada mi perfil? </strong> <br> Déjame un mensaje en mi correo electrónico
      </p>
 
       <ul class="space-y-4">

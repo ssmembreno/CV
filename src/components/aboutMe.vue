@@ -5,14 +5,14 @@
     
     <!-- Foto circular -->
     <div class="relative z-10">
-      <img src="/img/Samuel-Membreño.jpeg" alt="Samuel Membreño" class="w-66 h-66 rounded-full object-cover border-4shadow-lg" />
+      <img src="/img/Samuel-Image.png" alt="Samuel Membreño" class="w-66 h-66 rounded-full object-cover border-4shadow-lg" />
     </div>
 
 
     <div class="max-w-3xl relative z-10 text-center">
 
         <p class="mt-8 text-lg text-gray-300 leading-relaxed">
-            Actualmente, sigo ampliando mis habilidades en frontend con React
+            Actualmente, sigo ampliando mis habilidades en frontend con Vue3,
             Tailwind y otras tecnologías para ofrecer soluciones completas y profesionales.
             Me considero una persona responsable, carismática, con muchas ganas de trabajar. 
             Me encanta aprender y crecer como desarrollador, siempre buscando aplicar buenas prácticas y ofrecer lo mejor de mi en cada proyecto con las siguientes tegnologias.
@@ -20,7 +20,7 @@
     </div>
 
 
-    <div class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-6 mt-12">
+    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-12">
             <!-- CARD -->
             <div class="relative group bg-white dark:bg-gray-800 rounded-2xl shadow-lg p-4 sm:p-6">
                 <!-- Gradiente al pasar el cursor -->
@@ -33,6 +33,9 @@
                     <img src="/img/icons/teg/001-html-5.png" alt="HTML5" class="w-10 h-10 sm:w-12 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
                     <img src="/img/icons/teg/007-css-3.png" alt="CSS3" class="w-10 h-10 sm:w-12 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
                     <img src="/img/icons/teg/003-js.png" alt="JavaScript" class="w-10 h-10 sm:w-12 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
+                    <img src="/img/icons/teg/vue.png" alt="Vue" class="w-10 h-10 sm:w-12 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
+                    <img src="/img/icons/teg/002-bootstrap.png" alt="Bootstrap" class="w-10 h-10 sm:w-12 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
+                    <img src="/img/icons/teg/tailwind.png" alt="Tailwind" class="w-10 h-10 sm:w-12 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
                 </div>
             </div>
 
@@ -46,23 +49,8 @@
                 <div class="grid grid-cols-3 gap-4 justify-items-center">
                     <img src="/img/icons/teg/004-java.png" alt="Java" class="w-10 h-10 sm:w-14 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
                     <img src="/img/icons/teg/005-php.png" alt="PHP" class="w-10 h-10 sm:w-14 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
-                    <img src="/img/icons/teg/006-mysql.png" alt="MySQL" class="w-10 h-10 sm:w-12 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
-                </div>
-            </div>
-
-
-
-            <!-- Card 3: Frameworks -->
-            <div class="relative group bg-white dark:bg-gray-800 rounded-2xl shadow-lg p-4 sm:p-6">
-                <div class="absolute inset-0 flex items-center justify-center pointer-events-none opacity-0 group-hover:opacity-100 transition-opacity duration-500">
-                    <div class="w-[300px] h-[200px] rounded-full bg-cyan-500/20 blur-3xl"></div>
-                </div>
-                <h2 class="text-lg sm:text-xl font-bold mb-4 text-center text-gray-800 dark:text-white">Frameworks</h2>
-                <div class="grid grid-cols-3 gap-4 justify-items-center">
-                    <img src="/img/icons/teg/002-bootstrap.png" alt="Bootstrap" class="w-10 h-10 sm:w-12 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
-                    <img src="/img/icons/teg/tailwind.png" alt="Tailwind" class="w-10 h-10 sm:w-12 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
                     <img src="/img/icons/teg/laravel.png" alt="Laravel" class="w-10 h-10 sm:w-12 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
-                    <img src="/img/icons/teg/vue.png" alt="Vue" class="w-10 h-10 sm:w-12 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
+                    <img src="/img/icons/teg/006-mysql.png" alt="MySQL" class="w-10 h-10 sm:w-12 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
                 </div>
             </div>
 
@@ -92,7 +80,7 @@
 </template>
 
 <script setup lang="js">
-// No necesitas JS por ahora
+
 </script>
 
 
