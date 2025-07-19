@@ -38,7 +38,7 @@
         <!-- Proyecto 1 -->
         <article
           onclick="window.open('https://www.galeriaenmanuel.com/', '_blank')" 
-          class="cursor-pointer transform transition-transform duration-300 ease-out hover:-translate-y-2 flex flex-col md:flex-row items-center bg-gradient-to-br from-gray-900 to-gray-800 rounded-lg overflow-hidden shadow-lg"
+          class="card-3d cursor-pointer transform transition-transform duration-300 ease-out hover:-translate-y-2 flex flex-col md:flex-row items-center bg-gradient-to-br from-gray-900 to-gray-800 rounded-lg overflow-hidden shadow-lg"
         >
           <img src="/public/img/image.png" alt="Project screenshot" class="card-3d object-cover rounded-lg md:w-1/2 sm:ml-4 ">
           <div class="p-6 flex flex-col justify-between">
@@ -72,10 +72,46 @@
           </div>
         </article>
 
-        <!-- Proyecto 2 -->
+        <article
+          onclick="window.open('https://infinitybrokershn.com/', '_blank')"
+          class=" card-3d cursor-pointer transform transition-transform duration-300 ease-out hover:-translate-y-2 flex flex-col md:flex-row-reverse items-start bg-gradient-to-br from-gray-900 to-gray-800 rounded-lg overflow-hidden shadow-lg"
+        >
+          <img src="/public/img/Infinity.png" alt="LS Fitness image" class="card-3d object-cover rounded-lg md:w-1/2 sm:ml-4 mt-10 mb-5 mr-5">
+          <div class="p-6 flex flex-col justify-between">
+            <div>
+              <h3 class="text-sm uppercase text-blue-400 mb-2">Proyecto destacado</h3>
+              <h2 class="text-xl font-semibold mb-4">Infinity Broker | Correduria De Seguros</h2>
+              <p class="text-gray-300 mb-4">
+                Infinity Brokers es una correduría de seguros hondureña que ofrece soluciones personalizadas en seguros de vida, salud, automóvil, vivienda y más.
+                El sistema tiene como función principal el manejo de pólizas, seguros contratados por clientes y la gestión centralizada de coberturas, renovaciones,
+                documentos asociados y datos relevantes.
+              </p>
+              <!-- Tecnologías -->
+              <div class="flex flex-wrap gap-1 mt-4">
+                <span class="px-3 py-1 text-sm bg-pink-700 text-white rounded-full font-bold">HTML</span>
+                <span class="px-3 py-1 text-sm bg-cyan-700 text-white rounded-full font-bold">CSS</span>
+                <span class="px-3 py-1 text-sm bg-yellow-500 text-white rounded-full font-bold">JavaScript</span>
+                <span class="px-3 py-1 text-sm bg-cyan-900 text-white rounded-full font-bold">Boostrap</span>
+                <span class="px-3 py-1 text-sm bg-blue-400 text-white rounded-full font-bold">PHP</span>
+                <span class="px-3 py-1 text-sm bg-red-700 text-white rounded-full font-bold">Laravel</span>
+                <span class="px-3 py-1 text-sm bg-purple-700 text-white rounded-full font-bold">MySQL</span>
+                <span class="px-3 py-1 text-sm bg-orange-500 text-white rounded-full font-bold">Blade</span>
+              </div>
+            </div>
+            <br>
+            <!-- Links -->
+            <div class="flex space-x-4 mt-4">
+              <a href="https://leridasturm.com/" target="_blank" aria-label="Link" class="text-gray-400 hover:text-white mt-2">
+                <img src="/public/img/icons/external-link.png" alt="samuel_membreno-proyecto2" width="15">
+              </a>
+            </div>
+          </div>
+        </article>
+
+        <!-- Proyecto 3 -->
         <article
           onclick="window.open('https://leridasturm.com/', '_blank')"
-          class="cursor-pointer transform transition-transform duration-300 ease-out hover:-translate-y-2 flex flex-col md:flex-row-reverse items-start bg-gradient-to-br from-gray-900 to-gray-800 rounded-lg overflow-hidden shadow-lg"
+          class="card-3d cursor-pointer transform transition-transform duration-300 ease-out hover:-translate-y-2 flex flex-col md:flex-row items-center bg-gradient-to-br from-gray-900 to-gray-800 rounded-lg overflow-hidden shadow-lg"
         >
           <img src="/public/img/LsFitness.png" alt="LS Fitness image" class="card-3d object-cover rounded-lg md:w-1/2 sm:ml-4 mt-5 mb-5 mr-5">
           <div class="p-6 flex flex-col justify-between">
