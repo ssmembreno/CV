@@ -82,9 +82,8 @@
               <h3 class="text-sm uppercase text-blue-400 mb-2">Proyecto destacado</h3>
               <h2 class="text-xl font-semibold mb-4">Infinity Broker | Correduria De Seguros</h2>
               <p class="text-gray-300 mb-4">
-                Infinity Brokers es una correduría de seguros hondureña que ofrece soluciones personalizadas en seguros de vida, salud, automóvil, vivienda y más.
-                El sistema tiene como función principal el manejo de pólizas, seguros contratados por clientes y la gestión centralizada de coberturas, renovaciones,
-                documentos asociados y datos relevantes.
+                Infinity Brokers es una correduría de seguros hondureña en la que me encargué del mantenimiento de su aplicación. Durante mi trabajo 
+                resolví errores, mejoré funciones existentes y agregué nuevas características tanto en la parte administrativa como en la interfaz para los usuarios.              
               </p>
               <!-- Tecnologías -->
               <div class="flex flex-wrap gap-1 mt-4">

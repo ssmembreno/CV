@@ -43,7 +43,7 @@
               class="gsap-button border-3 border-solid text-white font-bold px-6 py-2 rounded-full shadow hover:border-teal-300 transition 
               duration-300 text-center">Infojobs</a>
 
-              <a download="Samuel-Membreño_CV.pdf" href="/Sebastian-Samuel-membreño.pdf" target="_blank" 
+              <a download="SebastianSamuelMembreño_CV.pdf" href="/SebastianSamuelMembreño_CV.pdf" target="_blank" 
               class="gsap-button border-3 border-solid text-white font-bold px-6 py-2 rounded-full shadow hover:border-teal-300 transition
                duration-300 text-center">CV</a>
 
