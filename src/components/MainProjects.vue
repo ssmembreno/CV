@@ -14,7 +14,7 @@ const projects = [
     title: "Galeria de arte Enmanuel Membreño",
     subtitle: "Proyecto destacado",
     description: "La Galeria de arte Enmanuel Membreño es una plataforma web que permite a los usuarios visualizar visualizar obras de arte de el artista. El proyecto lo he desarrollado completamente con Laravel, PHP, HTML, CSS y JavaScript. Utilizando la base de datos MySQL para almacenar diferentes datos de la plataforma, se aplico correctamente el uso de MVC, La aplicación cuenta con un sistema de autenticación, y un sistema de roles y permisos. Todo el proyecto se gestiono utilizando git y github.",
-    image: "/public/img/image.png",
+    image: "/img/image.png",
     links: {
       github: "https://github.com/ssmembreno/GaleriaArteEnmanuel",
       live: "https://www.galeriaenmanuel.com/"
@@ -35,7 +35,7 @@ const projects = [
     title: "Infinity Broker | Correduria De Seguros",
     subtitle: "Proyecto destacado",
     description: "Infinity Broker es una plataforma de gestión de seguros en la trabaje como desarrollador fullstack dandole mantenimiento y actualizaciones de nuevas funcionalidades con Laravel 10 y MySQL bajo arquitectura MVC. Implementé nuevas funcionalidades y optimicé el rendimiento del sistema siguiendo metodologías Scrum y flujos de CI/CD. En el frontend, construí componentes modulares con Blade, Vite y Bootstrap 5 aplicando el estándar BEM para garantizar escalabilidad y mantenibilidad del código. Manteniendo un flujo de trabajo organizado y eficiente, utilizando Git y GitHub para control de versiones y colaboración con el equipo.",
-    image: "/public/img/Infinity.png",
+    image: "/img/Infinity.png",
     links: {
       live: "https://infinitybrokershn.com/"
     },
@@ -56,7 +56,7 @@ const projects = [
     title: "LS Fitness",
     subtitle: "",
     description: "LS Fitness, me encargué de actualizar y mejorar diversas secciones del sitio web para optimizar su funcionalidad y estética. El objetivo principal fue mejorar la experiencia del usuario.",
-    image: "/public/img/LsFitness.png",
+    image: "/img/LsFitness.png",
     links: {
       live: "https://leridasturm.com/"
     },
@@ -71,7 +71,7 @@ const projects = [
     subtitleClass: "text-red-600",
     subtitle: "Proyecto en DESARROLLO",
     description: "Fiscape es un proyecto en desarrollo en la que se busca un mejor manejo de finanzas personales. En la aplicación se busca que el usuario pueda registrar sus gastos y ingresos, y que pueda ver un resumen de sus finanzas. En ella podras ver tus gastos y ingresos en un gráfico, y podrás ver tus finanzas en un resumen, exportar tus finanzas a un archivo CSV y PDF.",
-    image: "/public/img/fiscape.png",
+    image: "/img/fiscape.png",
     links: {
        github: "https://github.com/ssmembreno/Fiscape",
        live: "https://fiscape.com/"
