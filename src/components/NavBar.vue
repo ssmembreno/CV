@@ -24,9 +24,11 @@
             Desarollador Full Stack
           </h2>
           <p class="gsap-button text-base sm:text-lg lg:text-xl text-gray-300 mb-5 leading-relaxed">
-            Con formación en un 
-            técnico de grado superior
-            en desarrollo de aplicaciones web (DAW).<br /><br />
+            <span class="font-bold text-teal-300 font-josefin text-2xl">2 años </span>
+            de experiencia laboral
+            con formación en
+            FP de grado superior
+            en desarrollo de aplicaciones web (DAW).<br/><br/>
           </p>
           <div class="flex flex-col lg:flex-row items-center">
             <div class="grid sm:grid-cols-4 gap-4">
@@ -43,7 +45,7 @@
               class="gsap-button border-3 border-solid text-white font-bold px-6 py-2 rounded-full shadow hover:border-teal-300 transition 
               duration-300 text-center">Infojobs</a>
 
-              <a download="SebastianSamuelMembreño_CV.pdf" href="/SebastianSamuelMembreño_CV.pdf" target="_blank" 
+              <a download="Sebastian-Samuel-Membreño-Rivera.pdf" href="/sebastian-samuel-membreno-rivera.pdf" target="_blank" 
               class="gsap-button border-3 border-solid text-white font-bold px-6 py-2 rounded-full shadow hover:border-teal-300 transition
                duration-300 text-center">CV</a>
 

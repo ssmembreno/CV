@@ -5,15 +5,15 @@
     
     <!-- Foto circular -->
     <div class="relative z-10">
-      <img src="/img/Samuel-Image.png" alt="Samuel Membreño" class="w-66 h-66 rounded-full object-cover border-4shadow-lg" />
+      <img src="/img/Samuel_Membreño_pic.png" alt="Samuel Membreño" class="w-66 h-66 rounded-full object-cover border-4shadow-lg" />
     </div>
 
 
     <div class="max-w-3xl relative z-10 text-center">
 
         <p class="mt-8 text-lg text-gray-300 leading-relaxed">
-            Actualmente, sigo ampliando mis habilidades en frontend con Vue3,
-            Tailwind y otras tecnologías para ofrecer soluciones completas y profesionales.
+            Actualmente, sigo ampliando mis habilidades en frontend con Vue3
+            y otras tecnologías para ofrecer soluciones completas y profesionales.
             Me considero una persona responsable, carismática, con muchas ganas de trabajar. 
             Me encanta aprender y crecer como desarrollador, siempre buscando aplicar buenas prácticas y ofrecer lo mejor de mi en cada proyecto con las siguientes tegnologias.
         </p>
@@ -36,6 +36,8 @@
                     <img src="/img/icons/teg/vue.png" alt="Vue" class="w-10 h-10 sm:w-12 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
                     <img src="/img/icons/teg/002-bootstrap.png" alt="Bootstrap" class="w-10 h-10 sm:w-12 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
                     <img src="/img/icons/teg/tailwind.png" alt="Tailwind" class="w-10 h-10 sm:w-12 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
+                    <img src="/img/icons/teg/vite_icon.png" alt="Vite" class="w-10 h-10 sm:w-12 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
+                    <img src="/img/icons/teg/blade_icon.png" alt="Blade" class="w-10 h-10 sm:w-12 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
                 </div>
             </div>
 
@@ -47,10 +49,12 @@
                 </div>
                 <h2 class="text-lg sm:text-xl font-bold mb-4 text-center text-gray-800 dark:text-white">Backend</h2>
                 <div class="grid grid-cols-3 gap-4 justify-items-center">
-                    <img src="/img/icons/teg/004-java.png" alt="Java" class="w-10 h-10 sm:w-14 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
-                    <img src="/img/icons/teg/005-php.png" alt="PHP" class="w-10 h-10 sm:w-14 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
                     <img src="/img/icons/teg/laravel.png" alt="Laravel" class="w-10 h-10 sm:w-12 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
+                    <img src="/img/icons/teg/005-php.png" alt="PHP" class="w-10 h-10 sm:w-14 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
                     <img src="/img/icons/teg/006-mysql.png" alt="MySQL" class="w-10 h-10 sm:w-12 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
+                    <img src="/img/icons/teg/mariaDB_icon.png" alt="MariaDB" class="w-10 h-10 sm:w-12 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
+                    <img src="/img/icons/teg/004-java.png" alt="Java" class="w-10 h-10 sm:w-14 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
+                    <img src="/img/icons/teg/python_icon.png" alt="Python" class="w-10 h-10 sm:w-12 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
                 </div>
             </div>
 
@@ -66,6 +70,9 @@
                     <img src="/img/icons/teg/wordpress.png" alt="WordPress" class="w-10 h-10 sm:w-12 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
                     <img src="/img/icons/teg/postman.png" alt="Postman" class="w-10 h-10 sm:w-12 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
                     <img src="/img/icons/teg/VSC.png" alt="VS Code" class="w-10 h-10 sm:w-12 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
+                    <img src="/img/icons/teg/icons8-aws-96.png" alt="AWS" class="w-10 h-10 sm:w-12 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
+                    <img src="/img/icons/teg/linux.png" alt="Linux" class="w-10 h-10 sm:w-12 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
+                    <img src="/img/icons/teg/docker.png" alt="Docker" class="w-10 h-10 sm:w-12 sm:h-12 transition-transform duration-300 transform group-hover:scale-105 hover:scale-110" />
                 </div>
             </div>
     </div>
